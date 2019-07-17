@@ -124,7 +124,7 @@ Your response:
 ```
 /* Question 4 Regex Here */
 
-let url = /(bacondelivery\.com)\/(([\w]+\?[\w]+\=[\w]+\/?)?)(?!about\/?|contact-us\/?)([\w]+)((-[\w]+){1,})?$/;
+/(bacondelivery\.com)\/(([\w]+\?[\w]+\=[\w]+\/?)?)(?!about\/?|contact-us\/?)([\w]+)((-[\w]+){1,})?$/
 ```
 
 ---
